@@ -34,3 +34,4 @@
 /Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net9.0/MovieDbProxy.pdb
 /Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net9.0/MovieDbProxy.genruntimeconfig.cache
 /Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net9.0/ref/MovieDbProxy.dll
+/Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net9.0/MovieDbProxy.sourcelink.json

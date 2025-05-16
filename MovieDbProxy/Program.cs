@@ -51,7 +51,7 @@ app.UseSwaggerUI(c =>
 app.UseCors("AllowAngular4200");
 app.UseRouting();
 app.UseAuthorization();
-
-app.MapControllers(); // Map attribute-routed controllers
+app.UseStaticFiles();
+app.MapControllers(); // Map attribute-adsadasdaouted controllers
 
 app.Run();

@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieDBProxy", "MovieDBProxy.csproj", "{33990829-D006-4EC6-B3A4-F71705758D53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9C42645A-C187-450E-8FFA-54567AA29811}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33990829-D006-4EC6-B3A4-F71705758D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33990829-D006-4EC6-B3A4-F71705758D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33990829-D006-4EC6-B3A4-F71705758D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33990829-D006-4EC6-B3A4-F71705758D53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

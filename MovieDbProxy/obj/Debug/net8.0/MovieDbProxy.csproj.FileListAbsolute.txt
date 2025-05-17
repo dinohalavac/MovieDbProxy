@@ -1,3 +1,9 @@
+/Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net8.0/MovieDbProxy.csproj.AssemblyReference.cache
+/Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net8.0/MovieDbProxy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net8.0/MovieDbProxy.AssemblyInfoInputs.cache
+/Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net8.0/MovieDbProxy.AssemblyInfo.cs
+/Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net8.0/MovieDbProxy.csproj.CoreCompileInputs.cache
+/Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net8.0/MovieDbProxy.sourcelink.json
 /Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/bin/Debug/net8.0/appsettings.Development.json
 /Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/bin/Debug/net8.0/appsettings.json
 /Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/bin/Debug/net8.0/global.json
@@ -12,14 +18,8 @@
 /Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net8.0/MovieDbProxy.csproj.AssemblyReference.cache
-/Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net8.0/MovieDbProxy.GeneratedMSBuildEditorConfig.editorconfig
-/Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net8.0/MovieDbProxy.AssemblyInfoInputs.cache
-/Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net8.0/MovieDbProxy.AssemblyInfo.cs
-/Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net8.0/MovieDbProxy.csproj.CoreCompileInputs.cache
 /Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net8.0/MovieDbProxy.MvcApplicationPartsAssemblyInfo.cs
 /Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net8.0/MovieDbProxy.MvcApplicationPartsAssemblyInfo.cache
-/Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net8.0/MovieDbProxy.sourcelink.json
 /Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net8.0/scopedcss/bundle/MovieDbProxy.styles.css
 /Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net8.0/staticwebassets.build.json
 /Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/obj/Debug/net8.0/staticwebassets.development.json

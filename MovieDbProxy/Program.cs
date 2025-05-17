@@ -40,7 +40,7 @@ if (app.Environment.IsDevelopment() && builder.Configuration.GetValue<int?>("POR
     builder.WebHost.UseUrls($"http://:{builder.Configuration.GetValue<int>("PORT")}");
 
 if (app.Environment.IsProduction() && builder.Configuration.GetValue<int?>("PORT") is not null)
-builder.WebHost.UseUrls($"http://:{builder.Configuration.GetValue<int>("PORT")}");
+    builder.WebHost.UseUrls($"http://:{builder.Configuration.GetValue<int>("PORT")}");
 
 // Enable Swagger in the pipeline
 app.UseSwagger();

@@ -15,8 +15,6 @@ if (app.Environment.IsDevelopment() && !app.Environment.IsProduction())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-if (app.Environment.IsProduction() && builder.Configuration.GetValue<int?>("PORT") is not null)
-    builder.WebHost.UseUrls($"http://:{builder.Configuration.GetValue<int>("PORT")}");
 app.UseHttpsRedirection();
 
 app.UseAuthorization();

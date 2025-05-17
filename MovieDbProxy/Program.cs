@@ -36,10 +36,11 @@ builder.Services.AddSwaggerGen(c =>
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseDeveloperExceptionPage();
-}
+if (app.Environment.IsDevelopment() && builder.Configuration.GetValue<int?>("PORT") is not null)
+    builder.WebHost.UseUrls($"http://:{builder.Configuration.GetValue<int>("PORT")}");
+
+if (app.Environment.IsProduction() && builder.Configuration.GetValue<int?>("PORT") is not null)
+builder.WebHost.UseUrls($"http://:{builder.Configuration.GetValue<int>("PORT")}");
 
 // Enable Swagger in the pipeline
 app.UseSwagger();

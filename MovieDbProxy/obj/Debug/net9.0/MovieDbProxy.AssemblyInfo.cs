@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovieDbProxy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f704a019ec57cf11990e64f1c2db6b3eb6f025d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+745bfb9fbece509dd0fa94fab11d2ea3d651d346")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovieDbProxy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovieDbProxy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

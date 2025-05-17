@@ -1,19 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "Yd5fKwPvdyM=",
+  "dgSpecHash": "Zl2JeJu8zgQ=",
   "success": true,
   "projectFilePath": "/Users/dinohalavac/Documents/MovieDb/MovieDbProxy/MovieDbProxy/MovieDbProxy.csproj",
   "expectedPackageFiles": [
-    "/Users/dinohalavac/.nuget/packages/microsoft.aspnetcore.openapi/7.0.0/microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "/Users/dinohalavac/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "/Users/dinohalavac/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/dinohalavac/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/dinohalavac/.nuget/packages/swashbuckle.aspnetcore/6.1.1/swashbuckle.aspnetcore.6.1.1.nupkg.sha512",
     "/Users/dinohalavac/.nuget/packages/swashbuckle.aspnetcore.swagger/6.1.1/swashbuckle.aspnetcore.swagger.6.1.1.nupkg.sha512",
     "/Users/dinohalavac/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.1.1/swashbuckle.aspnetcore.swaggergen.6.1.1.nupkg.sha512",
     "/Users/dinohalavac/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.1.1/swashbuckle.aspnetcore.swaggerui.6.1.1.nupkg.sha512",
-    "/Users/dinohalavac/.nuget/packages/microsoft.netcore.app.ref/8.0.15/microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
-    "/Users/dinohalavac/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
-    "/Users/dinohalavac/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.15/microsoft.netcore.app.host.osx-arm64.8.0.15.nupkg.sha512"
+    "/Users/dinohalavac/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/dinohalavac/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/dinohalavac/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.36/microsoft.netcore.app.host.osx-arm64.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }

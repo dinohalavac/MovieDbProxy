@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6yA9dMi0jlrbY/Rp/B21Hyd5tqhBvYnUz7hn28M6Gaw=",
+  "Source": "MovieDbProxy",
+  "BasePath": "_content/MovieDbProxy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
